@@ -1,0 +1,12 @@
+Estudos de Git e GitHub.
+
+1. Realizar a instalação do Git (Local)
+
+2. Realizar configurações iniciais no Git (Local)
+
+  - Iniciar com a visualização das configurações após a instalação.
+
+  Comando:
+  > git config --list
+
+  Observar o Branch (Padrão): master
