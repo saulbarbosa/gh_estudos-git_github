@@ -1,16 +1,11 @@
 Estudos de Git e GitHub.
 
 GitHub
-1. Realizar a instalação do Git (Local)
+1. Criar a conta no GitHub (Cloud)
 
-2. Realizar configurações iniciais no Git (Local)
+2. Repositório de nome gh_estudos-git_github
 
-  - Iniciar com a visualização das configurações após a instalação.
-
-  Comando:
-  > git config --list
-
-  Observar o Branch (Padrão): master
+   Existe o seguinte Arquivo de nome Estudos Git e GitHub.txt
 
 Git
 1. Realizar a instalação do Git (Local)
