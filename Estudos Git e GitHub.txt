@@ -2,18 +2,32 @@ Estudos de Git e GitHub.
 
 GitHub
 1. Criar a conta no GitHub (Cloud)
-
 2. Repositório de nome gh_estudos-git_github
-
    Existe o seguinte Arquivo de nome Estudos Git e GitHub.txt
 
 Git
 1. Realizar a instalação do Git (Local)
-
 2. Realizar configurações iniciais no Git (Local)
-  - Iniciar com a visualização das configurações após a instalação.
+   - Iniciar com a visualização das configurações após a instalação.
 
-  Comando:
-  git config --list
+   Comando:
+   > git config --list
 
-  Observar o Branch (Padrão): master
+   Observar o Branch (Padrão): master
+3. Clonar repositório do GitHub (Cloud) - saulbarbosa
+   Via HTTPS
+   Comando:
+   > git clone https://github.com/saulbarbosa/gh_estudos-git_github.git
+
+4. Realizar a alteração do Arquivo no Repostório Local e Enviar para o GitHub (Cloud) - saulbarbosa
+   Comando:
+   > git add .
+   > git commit -m "Alteração no Documento de Estudos - Inclusão de Novos Passos (Steps)"
+
+   Segue a Imagem com a informação de alterações confirmadas (Commit).
+   Agora com este comando:
+   > git push -u origin main
+   
+   Obs.: Pode ocorrer um pedido de autenticação, conforme a imagem.
+   
+   main (Branch Padrão do GitHub (Cloud)
