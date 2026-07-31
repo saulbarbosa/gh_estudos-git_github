@@ -1,3 +1,6 @@
 Estudos relacionados com o Git Graph e Git Pull Request.
 
 > git add .
+> git commit -m "Descrição do ADD e Modificação"
+> git push
+
